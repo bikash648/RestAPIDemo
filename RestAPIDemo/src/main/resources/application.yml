@@ -1,0 +1,15 @@
+#server:
+#  port: '9090'
+
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    username: root
+#    url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/CrudOperation
+#    password: Bikash
+#  jpa:
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.MySQL8Dialect
+#    hibernate:
+#      ddl-auto: update
